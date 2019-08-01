@@ -19,13 +19,14 @@ from .views import home
 from interface_app.views import loginView, logout_view, register_view
 
 urlpatterns = [
-    # path('admin/', admin.site.urls),
+     path('admin/', admin.site.urls),
     path('/',home, name= "home"),
-    path('',home),
+    path('accounts/', include('allauth.urls')),
+
     path('accounts/login/', loginView),
     path('accounts/register/', register_view),
     path('accounts/logout/', logout_view),
-    path('interface_app/', include('interface_app.urls')),
+    # path('interface_app/', include('interface_app.urls')),
 
 
 ]
