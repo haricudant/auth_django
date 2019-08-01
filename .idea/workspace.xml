@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dd7dce5-4757-484d-ad4c-56374f65a5b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../practise mern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analytics_App" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cloud Security Assignment_2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cloud security_Assignment 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoFullStackBootcamp_Course" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoFullStackBootcamp_Course" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New Text Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../New Text Document.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/Simple  Social.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/Template/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/Template/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/Template/text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/Template/thanks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/Template/accounts/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/Template/accounts/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/accounts/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/simplesocial/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/static/css/master.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/static/socialsimple/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple  Social/accounts/static/socialsimple/css/master.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../au_pro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../au_pro/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../au_pro/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authent_pro" beforeDir="false" afterPath="$PROJECT_DIR$/../authent_pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/mudhalproject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/HARI NARAYANAN Appeal Oct 2018.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/Templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/static/css/mystyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mudhalproject/mudhalproject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_pro/templates/interface_app/book_detail.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_app/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_app/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-311">
+              <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_pro/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_pro/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/book_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="25" selection-end-line="23" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_app/book_detail.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Hari\Desktop\interface_pro\interface_pro</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/interface_app/forms.py" />
+        <option value="$PROJECT_DIR$/polls/models.py" />
+        <option value="$PROJECT_DIR$/polls/urls.py" />
+        <option value="$PROJECT_DIR$/polls/views.py" />
+        <option value="$PROJECT_DIR$/templates/sign_up.html" />
+        <option value="$PROJECT_DIR$/interface_app/models.py" />
+        <option value="$PROJECT_DIR$/interface_app/admin.py" />
+        <option value="$PROJECT_DIR$/static/styles.css" />
+        <option value="$PROJECT_DIR$/interface_pro/settings.py" />
+        <option value="$PROJECT_DIR$/templates/book_list.html" />
+        <option value="$PROJECT_DIR$/templates/book_detail.html" />
+        <option value="$PROJECT_DIR$/templates/base_generic.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/interface_pro/views.py" />
+        <option value="$PROJECT_DIR$/interface_pro/urls.py" />
+        <option value="$PROJECT_DIR$/interface_app/urls.py" />
+        <option value="$PROJECT_DIR$/interface_app/views.py" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="interface_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_pro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interface_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interface_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_pro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interface_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interface_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interface_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/libraryManagementSystemUsingDjango" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hari\Desktop\interface_pro\interface_pro\templates\interface_app" />
+      <recent name="C:\Users\Hari\Desktop\interface_pro\interface_app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hari\Desktop\interface_pro" />
+      <recent name="C:\Users\Hari\Desktop\interface_pro\interface_pro" />
+      <recent name="C:\Users\Hari\Desktop\interface_pro\templates" />
+      <recent name="C:\Users\Hari\Desktop\interface_pro\templates\interface_app" />
+      <recent name="C:\Users\Hari\Desktop\interface_pro\templates\catalog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dd7dce5-4757-484d-ad4c-56374f65a5b9" name="Default Changelist" comment="" />
+      <created>1560329223564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560329223564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25437203" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22380106" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/polls/views.py" />
+    <entry file="file://$PROJECT_DIR$/polls/models.py" />
+    <entry file="file://$PROJECT_DIR$/polls/urls.py" />
+    <entry file="file://$PROJECT_DIR$/interface_app/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sign_up.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_pro/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_pro/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_app/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_app/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base_generic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/book_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_pro/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding>
+            <element signature="e#637#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="62" column="31" selection-start-line="61" selection-start-column="4" selection-end-line="62" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_pro/templates/interface_app/book_detail.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_pro/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_pro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/book_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="25" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_app/book_detail.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_app/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
